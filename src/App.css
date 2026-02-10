@@ -1,0 +1,18 @@
+/* In About.css, Hero.css, etc. */
+.about-section,
+.hero-section,
+.skills-section,
+.timeline-section,
+.contact-section {
+  width: 100%;
+}
+
+.about-section .section-container,
+.hero-section .section-container,
+.skills-section .section-container,
+.timeline-section .section-container,
+.contact-section .section-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
