@@ -45,7 +45,8 @@ const Skills = () => {
     "Tools": [
       { name: "Postman", icon: "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" },
       { name: "GitHub", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
-      { name: "Docker", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" }
+      { name: "Docker", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" },
+      { name: "Jenkins", icon: "https://imgs.search.brave.com/cujHUS5_FeYrczNci0RFJ_rwe4yY_SVHuzSiX_azmyE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90b3Bw/bmcuY29tL3VwbG9h/ZHMvcHJldmlldy9q/ZW5raW5zLWxvZ28t/MTE2MDkzNjU4NDdt/dWZ5c2FpdnBoLnBu/Zw" }
     ]
   }
 
